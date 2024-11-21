@@ -1,0 +1,2 @@
+# rice_disease
+python
